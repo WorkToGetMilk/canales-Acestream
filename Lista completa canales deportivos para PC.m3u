@@ -115,3 +115,5 @@ acestream://65c141632af256d70da66c767ba74360042b4396
 acestream://0827cf7d290967985892965c6e61244a479d6dcd
 #EXTINF:-1,LA 1 [1080 Multiaudio]
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+#EXTINF:-1 tvg-logo="https://www.google.com/search?q=la+2&rlz=1C1ONGR_esES1025ES1025&sxsrf=ALiCzsbZqPBcTcpjnwOtfkEmtP_KR8v28A:1664810200851&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj7mo-lrcT6AhWH04UKHRoCAvgQ_AUoA3oECAIQBQ&biw=1920&bih=937&dpr=1# imgrc=NUWkZyLoy8R5DM" group-title="TDT" tvg-id="La 2", La 2
+https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
