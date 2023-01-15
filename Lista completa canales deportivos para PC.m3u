@@ -791,9 +791,9 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32734
 http://bandookk.xyz:8000/Geniptv/persian_share/32735
 #EXTINF:-1 tvg-id="" tvg-name="[ES] CLASSICA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CLASSICA.png" group-title="Movistar",[ES] CLASSICA
 http://bandookk.xyz:8000/Geniptv/persian_share/32736
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. SERIES HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.SERIES.png" group-title="Movistar",[ES] M. SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M. SERIES HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.SERIES.png" group-title="Movistar Series",[ES] M. SERIES HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32737
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. ESTRENOS 2 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.XTRA.png" group-title="Movistar",[ES] M. ESTRENOS 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M. ESTRENOS 2 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.XTRA.png" group-title="Movistar Cine",[ES] M. ESTRENOS 2 FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32738
 #EXTINF:-1 tvg-id="" tvg-name="[ES] MTV ESP" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MTVROCKS.png" group-title="Movistar",[ES] MTV ESP
 http://bandookk.xyz:8000/Geniptv/persian_share/32739
@@ -1337,33 +1337,33 @@ http://bandookk.xyz:8000/Geniptv/persian_share/33012
 http://bandookk.xyz:8000/Geniptv/persian_share/33013
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| DARK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| DARK SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33014
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ SERIES 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ SERIES 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ SERIES 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Series",|ESP| M+ SERIES 2 FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33015
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| C+ SERIES 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| C+ SERIES 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| C+ SERIES 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Series",|ESP| C+ SERIES 2 HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33016
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ SERIES 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ SERIES 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ SERIES 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Series",|ESP| M+ SERIES 2 SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33017
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ SERIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ SERIES FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ SERIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Series",|ESP| M+ SERIES FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33018
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M. SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M. SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M. SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Series",|ESP| M. SERIES HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33019
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ SERIES SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Series",|ESP| M+ SERIES SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33020
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| A3 SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| A3 SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| A3 SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Series",|ESP| A3 SERIES HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33021
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| A3 SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| A3 SERIES SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| A3 SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Series",|ESP| A3 SERIES SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33022
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ACCION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ ACCION FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ACCION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ ACCION FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33023
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| C+ ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| C+ ACCION HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| C+ ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| C+ ACCION HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33024
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ACCION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ ACCION SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ACCION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ ACCION SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33025
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ DRAMA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ DRAMA FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ DRAMA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ DRAMA FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33026
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| MOVISTAR DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| MOVISTAR DRAMA HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| MOVISTAR DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| MOVISTAR DRAMA HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33027
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ DRAMA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ DRAMA SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ DRAMA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ DRAMA SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33028
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| COMEDY CENTRAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| COMEDY CENTRAL FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33029
@@ -1371,45 +1371,45 @@ http://bandookk.xyz:8000/Geniptv/persian_share/33029
 http://bandookk.xyz:8000/Geniptv/persian_share/33030
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| COMEDY CENTRAL SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33031
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ COMEDIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ COMEDIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ COMEDIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ COMEDIA FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33032
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M.COMEDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M.COMEDIA HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M.COMEDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M.COMEDIA HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33033
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ COMEDIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ COMEDIA SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ COMEDIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ COMEDIA SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33034
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ESTRENOS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ ESTRENOS 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ESTRENOS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ ESTRENOS 2 FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33035
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M.ESTRENOS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M.ESTRENOS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M.ESTRENOS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M.ESTRENOS 2 HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33036
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ESTRENOS 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ ESTRENOS 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ESTRENOS 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ ESTRENOS 2 SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33037
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ESTRENOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ ESTRENOS FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ESTRENOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ ESTRENOS FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33038
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M.ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M.ESTRENOS HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M.ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M.ESTRENOS HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33039
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ESTRENOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ ESTRENOS SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ ESTRENOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ ESTRENOS SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33040
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| HOLLYWOOD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| HOLLYWOOD FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| HOLLYWOOD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| HOLLYWOOD FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33041
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| HOLLYWOOD HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| HOLLYWOOD HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33042
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| HOLLYWOOD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| HOLLYWOOD SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| HOLLYWOOD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| HOLLYWOOD SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33043
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| BOM CINE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| BOM CINE FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| BOM CINE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| BOM CINE FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33044
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| BOM CINE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| BOM CINE HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| BOM CINE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| BOM CINE HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33045
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| BOM CINE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| BOM CINE SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| BOM CINE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| BOM CINE SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33046
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ OSCARS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ OSCARS FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ OSCARS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ OSCARS FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33047
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ OSCARS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ OSCARS HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ OSCARS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ OSCARS HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33048
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ OSCARS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ OSCARS SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ OSCARS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ OSCARS SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33049
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ CINE ESPANOL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ CINE ESPANOL FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ CINE ESPANOL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ CINE ESPANOL FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/33050
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ DCINE ESPANOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ DCINE ESPANOL HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ DCINE ESPANOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| M+ DCINE ESPANOL HD
 http://bandookk.xyz:8000/Geniptv/persian_share/33051
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| DCINE ESPANOL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| DCINE ESPANOL SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| DCINE ESPANOL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| DCINE ESPANOL SD
 http://bandookk.xyz:8000/Geniptv/persian_share/33052
