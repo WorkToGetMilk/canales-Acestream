@@ -470,19 +470,19 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32698
 http://bandookk.xyz:8000/Geniptv/persian_share/32699
 #EXTINF:-1 tvg-id="" tvg-name="[ES] TVE INTERNACIONAL" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar",[ES] TVE INTERNACIONAL
 http://bandookk.xyz:8000/Geniptv/persian_share/32700
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CLAN TVE" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANTVE.png" group-title="Movistar",[ES] CLAN TVE
+#EXTINF:-1 tvg-id="" tvg-name="[ES] CLAN TVE" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANTVE.png" group-title="Movistar Infantil",[ES] CLAN TVE
 http://bandookk.xyz:8000/Geniptv/persian_share/32701
-#EXTINF:-1 tvg-id="" tvg-name="[ES] BABY TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BABYTV.png" group-title="Movistar",[ES] BABY TV
+#EXTINF:-1 tvg-id="" tvg-name="[ES] BABY TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BABYTV.png" group-title="Movistar Infantil",[ES] BABY TV
 http://bandookk.xyz:8000/Geniptv/persian_share/32702
-#EXTINF:-1 tvg-id="" tvg-name="[ES] BOING" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BOING.png" group-title="Movistar",[ES] BOING
+#EXTINF:-1 tvg-id="" tvg-name="[ES] BOING" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BOING.png" group-title="Movistar Infantil",[ES] BOING
 http://bandookk.xyz:8000/Geniptv/persian_share/32703
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CANAL PANDA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALPANDA.png" group-title="Movistar",[ES] CANAL PANDA
+#EXTINF:-1 tvg-id="" tvg-name="[ES] CANAL PANDA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALPANDA.png" group-title="Movistar Infantil",[ES] CANAL PANDA
 http://bandookk.xyz:8000/Geniptv/persian_share/32704
-#EXTINF:-1 tvg-id="" tvg-name="[ES] DISNEY JR" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISNEYJR.png" group-title="Movistar",[ES] DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-name="[ES] DISNEY JR" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISNEYJR.png" group-title="Movistar Infantil",[ES] DISNEY JR
 http://bandookk.xyz:8000/Geniptv/persian_share/32705
-#EXTINF:-1 tvg-id="" tvg-name="[ES] DISNEY XD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISNEYXD.png" group-title="Movistar",[ES] DISNEY XD
+#EXTINF:-1 tvg-id="" tvg-name="[ES] DISNEY XD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISNEYXD.png" group-title="Movistar Infantil",[ES] DISNEY XD
 http://bandookk.xyz:8000/Geniptv/persian_share/32706
-#EXTINF:-1 tvg-id="" tvg-name="[ES] NICKELODEON  HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NICKELODEONHD.png" group-title="Movistar",[ES] NICKELODEON  HD
+#EXTINF:-1 tvg-id="" tvg-name="[ES] NICKELODEON  HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NICKELODEONHD.png" group-title="Movistar Infantil",[ES] NICKELODEON  HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32707
 #EXTINF:-1 tvg-id="" tvg-name="[ES] AXN" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AXN.png" group-title="Movistar Cine",[ES] AXN
 http://bandookk.xyz:8000/Geniptv/persian_share/32708
@@ -576,139 +576,139 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32753
 http://bandookk.xyz:8000/Geniptv/persian_share/32754
 #EXTINF:-1 tvg-id="" tvg-name="[ES] MOVISTAR MOTOGP" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MOTOGPHD.png" group-title="Movistar Alquiler",[ES] MOVISTAR MOTOGP
 http://bandookk.xyz:8000/Geniptv/persian_share/32755
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Murcia" tvg-logo="" group-title="Movistar",[ES] Murcia
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Murcia" tvg-logo="" group-title="Movistar TDT",[ES] Murcia
 http://bandookk.xyz:8000/Geniptv/persian_share/32756
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Bein Sports ES" tvg-logo="" group-title="Movistar",[ES] Bein Sports ES
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Bein Sports ES" tvg-logo="" group-title="Movistar Deportes",[ES] Bein Sports ES
 http://bandookk.xyz:8000/Geniptv/persian_share/32757
-#EXTINF:-1 tvg-id="" tvg-name="[ES] LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="Movistar",[ES] LA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="[ES] LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="Movistar TDT",[ES] LA 2 HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32758
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA SEXTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| LA SEXTA FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA SEXTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| LA SEXTA FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32759
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| LA SEXTA HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| LA SEXTA HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32760
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA SEXTA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| LA SEXTA SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA SEXTA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| LA SEXTA SD
 http://bandookk.xyz:8000/Geniptv/persian_share/32761
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TELECINCO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TELECINCO FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TELECINCO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TELECINCO FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32762
-#EXTINF:-1 tvg-id="" tvg-name="|ESP|TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP|TELECINCO HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP|TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP|TELECINCO HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32763
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TELECINCO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TELECINCO SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TELECINCO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TELECINCO SD
 http://bandookk.xyz:8000/Geniptv/persian_share/32764
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| CUATRO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| CUATRO FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| CUATRO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| CUATRO FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32766
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| CUATRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| CUATRO HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| CUATRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| CUATRO HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32767
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| CUATRO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| CUATRO SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| CUATRO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| CUATRO SD
 http://bandookk.xyz:8000/Geniptv/persian_share/32768
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| ANTENA 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| ANTENA 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| ANTENA 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| ANTENA 3 FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32769
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| ANTENA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| ANTENA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| ANTENA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| ANTENA 3 HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32770
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| ANTENA 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| ANTENA 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| ANTENA 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| ANTENA 3 SD
 http://bandookk.xyz:8000/Geniptv/persian_share/32771
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| LA 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| LA 2 FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32772
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| LA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| LA 2 HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32773
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| LA 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| LA 2 SD
 http://bandookk.xyz:8000/Geniptv/persian_share/32774
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Televisa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Televisa HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Televisa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Televisa HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32775
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| LA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| LA 1 FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32776
-#EXTINF:-1 tvg-id="" tvg-name="|ESP|  Star TVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP|  Star TVE FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP|  Star TVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP|  Star TVE FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32777
-#EXTINF:-1 tvg-id="" tvg-name="|ESP|  TVG Infantil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP|  TVG Infantil HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP|  TVG Infantil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Infantil",|ESP|  TVG Infantil HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32778
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| MyTime movie network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| MyTime movie network FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32779
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Star TVE
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Star TVE
 http://bandookk.xyz:8000/Geniptv/persian_share/32780
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| U-Beat FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| U-Beat FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| U-Beat FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| U-Beat FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32781
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Sur Andalucia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Canal Sur Andalucia
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Sur Andalucia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Canal Sur Andalucia
 http://bandookk.xyz:8000/Geniptv/persian_share/32782
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Radio Television Melilla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Radio Television Melilla
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Radio Television Melilla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Radio Television Melilla
 http://bandookk.xyz:8000/Geniptv/persian_share/32783
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Pequeradio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Pequeradio
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Pequeradio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Pequeradio
 http://bandookk.xyz:8000/Geniptv/persian_share/32784
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Onda Algeciras Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Onda Algeciras Television
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Onda Algeciras Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Onda Algeciras Television
 http://bandookk.xyz:8000/Geniptv/persian_share/32785
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Popular TV Cantabria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Popular TV Cantabria
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Popular TV Cantabria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Popular TV Cantabria
 http://bandookk.xyz:8000/Geniptv/persian_share/32786
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal San Roque" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Canal San Roque
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal San Roque" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Canal San Roque
 http://bandookk.xyz:8000/Geniptv/persian_share/32787
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Costa del Sol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Costa del Sol TV
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Costa del Sol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Costa del Sol TV
 http://bandookk.xyz:8000/Geniptv/persian_share/32788
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| LOGOS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| LOGOS TV
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| LOGOS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| LOGOS TV
 http://bandookk.xyz:8000/Geniptv/persian_share/32789
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| LA 7
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| LA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| LA 7
 http://bandookk.xyz:8000/Geniptv/persian_share/32790
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| CANAL COSTA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| CANAL COSTA TV
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| CANAL COSTA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| CANAL COSTA TV
 http://bandookk.xyz:8000/Geniptv/persian_share/32791
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Canal Extremadura
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDR",|ESP| Canal Extremadura
 http://bandookk.xyz:8000/Geniptv/persian_share/32792
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Solidaria TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Solidaria TV
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Solidaria TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Solidaria TV
 http://bandookk.xyz:8000/Geniptv/persian_share/32793
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| MOLA TV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| MOLA TV HITS
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| MOLA TV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| MOLA TV HITS
 http://bandookk.xyz:8000/Geniptv/persian_share/32794
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| 101 Tele Antequera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| 101 Tele Antequera
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| 101 Tele Antequera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| 101 Tele Antequera
 http://bandookk.xyz:8000/Geniptv/persian_share/32795
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Malaga RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Canal Malaga RTV
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Malaga RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Canal Malaga RTV
 http://bandookk.xyz:8000/Geniptv/persian_share/32796
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Television de Galicia Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Television de Galicia Europa
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Television de Galicia Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Television de Galicia Europa
 http://bandookk.xyz:8000/Geniptv/persian_share/32797
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Television de Galicia America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Television de Galicia America
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Television de Galicia America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Television de Galicia America
 http://bandookk.xyz:8000/Geniptv/persian_share/32798
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVGA  EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TVGA  EUROPA
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVGA  EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TVGA  EUROPA
 http://bandookk.xyz:8000/Geniptv/persian_share/32799
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Ribera TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Ribera TV
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Ribera TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Ribera TV
 http://bandookk.xyz:8000/Geniptv/persian_share/32800
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVM Cordoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TVM Cordoba
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVM Cordoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TVM Cordoba
 http://bandookk.xyz:8000/Geniptv/persian_share/32801
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Malaga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Canal Malaga
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Malaga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Canal Malaga
 http://bandookk.xyz:8000/Geniptv/persian_share/32802
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Interalmeria TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Interalmeria TV
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Interalmeria TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Interalmeria TV
 http://bandookk.xyz:8000/Geniptv/persian_share/32803
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Parlamento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Canal Parlamento
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Parlamento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Canal Parlamento
 http://bandookk.xyz:8000/Geniptv/persian_share/32804
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TV GIRONA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TV GIRONA
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TV GIRONA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TV GIRONA
 http://bandookk.xyz:8000/Geniptv/persian_share/32805
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Cazavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Cazavision
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Cazavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Cazavision
 http://bandookk.xyz:8000/Geniptv/persian_share/32806
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| SOPHIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| SOPHIA TV
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| SOPHIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| SOPHIA TV
 http://bandookk.xyz:8000/Geniptv/persian_share/32807
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TV3 Catalunya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TV3 Catalunya
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TV3 Catalunya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TV3 Catalunya
 http://bandookk.xyz:8000/Geniptv/persian_share/32808
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG Musigal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TVG Musigal
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG Musigal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TVG Musigal
 http://bandookk.xyz:8000/Geniptv/persian_share/32809
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG EVENTO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TVG EVENTO 1
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG EVENTO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TVG EVENTO 1
 http://bandookk.xyz:8000/Geniptv/persian_share/32810
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TVG AMERICA
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TVG AMERICA
 http://bandookk.xyz:8000/Geniptv/persian_share/32811
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TVG EUROPA
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TVG EUROPA
 http://bandookk.xyz:8000/Geniptv/persian_share/32812
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG MOMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TVG MOMENTO
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG MOMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TVG MOMENTO
 http://bandookk.xyz:8000/Geniptv/persian_share/32813
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TVG 2
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TVG 2
 http://bandookk.xyz:8000/Geniptv/persian_share/32814
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TVG
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TVG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TVG
 http://bandookk.xyz:8000/Geniptv/persian_share/32815
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TELEMADRID FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TELEMADRID FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TELEMADRID FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TELEMADRID FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32816
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TELEMADRID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TELEMADRID HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TELEMADRID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TELEMADRID HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32817
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| TELEMADRID SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TELEMADRID SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| TELEMADRID SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TELEMADRID SD
 http://bandookk.xyz:8000/Geniptv/persian_share/32818
-#EXTINF:-1 tvg-id="" tvg-name="|ES| 24 HORAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ES| 24 HORAS HD
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 24 HORAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ES| 24 HORAS HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32819
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| 24 HORAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| 24 HORAS SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| 24 HORAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| 24 HORAS SD
 http://bandookk.xyz:8000/Geniptv/persian_share/32820
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ Cracks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ Cracks
 http://bandookk.xyz:8000/Geniptv/persian_share/32821
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| Telesur English FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| Telesur English FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32822
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| MOVISTAR CLASICOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| MOVISTAR CLASICOS HD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| MOVISTAR CLASICOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Cine",|ESP| MOVISTAR CLASICOS HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32823
 #EXTINF:-1 tvg-id="" tvg-name="|ES| M+ TRECE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ES| M+ TRECE HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32824
@@ -900,7 +900,7 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32916
 http://bandookk.xyz:8000/Geniptv/persian_share/32917
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| CANAL DE CASA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| CANAL DE CASA SD
 http://bandookk.xyz:8000/Geniptv/persian_share/32918
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ LaLiga Smartbank TV FHD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Liga Smrtbank",|ESP| M+ LaLiga Smartbank TV FHD OP1
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ LaLiga Smartbank TV FHD OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Liga Smartbank",|ESP| M+ LaLiga Smartbank TV FHD OP1
 http://bandookk.xyz:8000/Geniptv/persian_share/32919
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| TOROS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| TOROS FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32920
@@ -920,7 +920,7 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32926
 http://bandookk.xyz:8000/Geniptv/persian_share/32927
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| CRIMEN+ INVESTIGACION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| CRIMEN+ INVESTIGACION SD
 http://bandookk.xyz:8000/Geniptv/persian_share/32928
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ LaLiga Smartbank TV 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Liga Smrtbank",|ESP| M+ LaLiga Smartbank TV 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ LaLiga Smartbank TV 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Liga Smartbank",|ESP| M+ LaLiga Smartbank TV 1 FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32929
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| NAT GEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| NAT GEO FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32930
