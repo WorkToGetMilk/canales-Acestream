@@ -452,9 +452,9 @@ acestream://b052e6c6f1dd4ffbc3d029438afd94d1ef978af0
 acestream://47fa841739d8585ad57d6ae1ff8abddc08bfcccc
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ANTENA 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar",[ES] ANTENA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="[ES] ANTENA 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT",[ES] ANTENA 3 HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32692
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CUATRO HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD.png" group-title="Movistar",[ES] CUATRO HD
+#EXTINF:-1 tvg-id="" tvg-name="[ES] CUATRO HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD.png" group-title="Movistar TDT",[ES] CUATRO HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32693
 #EXTINF:-1 tvg-id="" tvg-name="[ES] FDF" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/FDF.png" group-title="Movistar",[ES] FDF
 http://bandookk.xyz:8000/Geniptv/persian_share/32694
@@ -468,7 +468,7 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32697
 http://bandookk.xyz:8000/Geniptv/persian_share/32698
 #EXTINF:-1 tvg-id="" tvg-name="[ES] CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar",[ES] CANAL SUR Andalucia
 http://bandookk.xyz:8000/Geniptv/persian_share/32699
-#EXTINF:-1 tvg-id="" tvg-name="[ES] TVE INTERNACIONAL" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar",[ES] TVE INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="[ES] TVE INTERNACIONAL" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT",[ES] TVE INTERNACIONAL
 http://bandookk.xyz:8000/Geniptv/persian_share/32700
 #EXTINF:-1 tvg-id="" tvg-name="[ES] CLAN TVE" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANTVE.png" group-title="Movistar Infantil",[ES] CLAN TVE
 http://bandookk.xyz:8000/Geniptv/persian_share/32701
@@ -520,7 +520,7 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32724
 http://bandookk.xyz:8000/Geniptv/persian_share/32725
 #EXTINF:-1 tvg-id="" tvg-name="[ES] TOROS HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TOROSHD.png" group-title="Movistar",[ES] TOROS HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32727
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. DEPORTE 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.DEPORTES1HD.png" group-title="Movistar",[ES] M. DEPORTE 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M. DEPORTE 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.DEPORTES1HD.png" group-title="Movistar Deportes",[ES] M. DEPORTE 1 HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32728
 #EXTINF:-1 tvg-id="" tvg-name="[ES] CANAL DECASA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALDECASA.png" group-title="Movistar",[ES] CANAL DECASA
 http://bandookk.xyz:8000/Geniptv/persian_share/32729
@@ -530,9 +530,9 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32730
 http://bandookk.xyz:8000/Geniptv/persian_share/32731
 #EXTINF:-1 tvg-id="" tvg-name="[ES] #0 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/OHD.png" group-title="Movistar",[ES] #0 HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32732
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ARAGON" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="Movistar",[ES] ARAGON
+#EXTINF:-1 tvg-id="" tvg-name="[ES] ARAGON" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="Movistar TDT",[ES] ARAGON
 http://bandookk.xyz:8000/Geniptv/persian_share/32733
-#EXTINF:-1 tvg-id="" tvg-name="[ES] BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="Movistar",[ES] BE MAD
+#EXTINF:-1 tvg-id="" tvg-name="[ES] BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="Movistar TDT",[ES] BE MAD
 http://bandookk.xyz:8000/Geniptv/persian_share/32734
 #EXTINF:-1 tvg-id="" tvg-name="[ES] CANAL ODISEA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALODISEA.png" group-title="Movistar",[ES] CANAL ODISEA
 http://bandookk.xyz:8000/Geniptv/persian_share/32735
@@ -646,7 +646,7 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32789
 http://bandookk.xyz:8000/Geniptv/persian_share/32790
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| CANAL COSTA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| CANAL COSTA TV
 http://bandookk.xyz:8000/Geniptv/persian_share/32791
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDR",|ESP| Canal Extremadura
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Canal Extremadura
 http://bandookk.xyz:8000/Geniptv/persian_share/32792
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| Solidaria TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| Solidaria TV
 http://bandookk.xyz:8000/Geniptv/persian_share/32793
@@ -942,7 +942,7 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32937
 http://bandookk.xyz:8000/Geniptv/persian_share/32938
 #EXTINF:-1 tvg-id="" tvg-name="|ESP|  M+ Ellas #V FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP|  M+ Ellas #V FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32939
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| Real Madrid SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Deporte",|ESP| Real Madrid SD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| Real Madrid SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Deportes",|ESP| Real Madrid SD
 http://bandookk.xyz:8000/Geniptv/persian_share/32940
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| M+ Ellas #V HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar",|ESP| M+ Ellas #V HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32941
@@ -1835,7 +1835,7 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32738
 http://bandookk.xyz:8000/Geniptv/persian_share/32739
 #EXTINF:-1 tvg-id="" tvg-name="[ES] DISCOVERY" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISCOVERY.png" group-title="Movistar",[ES] DISCOVERY
 http://bandookk.xyz:8000/Geniptv/persian_share/32740
-#EXTINF:-1 tvg-id="" tvg-name="[ES] HISTORIA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/HISTORIA.png" group-title=Movistar",[ES] HISTORIA
+#EXTINF:-1 tvg-id="" tvg-name="[ES] HISTORIA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/HISTORIA.png" group-title="Movistar",[ES] HISTORIA
 http://bandookk.xyz:8000/Geniptv/persian_share/32741
 #EXTINF:-1 tvg-id="" tvg-name="[ES] NATIONAL GEOGRAPHIC HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NATGEOHD.png" group-title="Movistar",[ES] NATIONAL GEOGRAPHIC HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32742
