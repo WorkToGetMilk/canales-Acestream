@@ -1865,9 +1865,9 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32753
 http://bandookk.xyz:8000/Geniptv/persian_share/32754
 #EXTINF:-1 tvg-id="" tvg-name="[ES] MOVISTAR MOTOGP" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MOTOGPHD.png" group-title="Movistar Deportes",[ES] MOVISTAR MOTOGP
 http://bandookk.xyz:8000/Geniptv/persian_share/32755
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Murcia" tvg-logo="" group-title="SPAIN",[ES] Murcia
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Murcia" tvg-logo="" group-title="Movistar TDT",[ES] Murcia
 http://bandookk.xyz:8000/Geniptv/persian_share/32756
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Bein Sports ES" tvg-logo="" group-title="SPAIN",[ES] Bein Sports ES
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Bein Sports ES" tvg-logo="" group-title="Movistar Deportes",[ES] Bein Sports ES
 http://bandookk.xyz:8000/Geniptv/persian_share/32757
 #EXTINF:-1 tvg-id="" tvg-name="[ES] LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="Movistar TDT",[ES] LA 2 HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32758
@@ -1883,7 +1883,7 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32762
 http://bandookk.xyz:8000/Geniptv/persian_share/32763
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| TELECINCO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| TELECINCO SD
 http://bandookk.xyz:8000/Geniptv/persian_share/32764
-#EXTINF:-1 tvg-id="" tvg-name="|ESP| M Liga de Campeones UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="M Liga de Campeones",|ESP| M Liga de Campeones UHD
+#EXTINF:-1 tvg-id="" tvg-name="|ESP| M Liga de Campeones UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="M Liga Campeones",|ESP| M Liga de Campeones UHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32765
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| CUATRO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT",|ESP| CUATRO FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32766
