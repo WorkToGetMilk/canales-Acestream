@@ -129,6 +129,14 @@ acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DAZN" tvg-id="DAZN F1 720", DAZN F1 720
 acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
 
+#EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport" tvg-id="BT Sport1", BT Sport1
+acestream://ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
+
+#EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport" tvg-id="Sport tv4", Sport tv4
+acestream://c300ecb07d854c1730b04ea022c3fb0a184d7801
+
+#EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport" tvg-id="Sport 360", Sport 360
+acestream://e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 1080", Evento del momento 1080
 acestream://5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
