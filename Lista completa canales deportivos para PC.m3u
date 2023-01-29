@@ -398,6 +398,8 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar TDT", CANAL SUR Andalucia
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
+#EXTINF:0 tvg-id="Atreseries.es" group-title="Movistar TDT",|ES| A3SERIES
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kW0EgXbi17ucHhSl_hNvaxi
 
 #EXTINF:-1 tvg-id="" tvg-name="ARAGON TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="Movistar TDT", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
@@ -435,8 +437,8 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 #EXTINF:-1 tvg-id="" tvg-name="MOLA TV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", MOLA TV HITS
 http://bandookk.xyz:8000/Geniptv/persian_share/32794
 
-#EXTINF:-1 tvg-id="" tvg-name="TVM Cordoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TVM Cordoba
-http://totv.org/tv-television-cordoba/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",|ES| TVG Cultura HD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCH4TXAzPSRtYq1wNASXy9i_
 
 #EXTINF:-1 tvg-id="" tvg-name="TV GIRONA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TV GIRONA
 http://bandookk.xyz:8000/Geniptv/persian_share/32805
@@ -455,18 +457,238 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32919
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| M. LaLiga FHD Cable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar Liga",|ESP| M. LaLiga FHD Cable
 http://bandookk.xyz:8000/Geniptv/persian_share/32937
 
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oImuUeK7Hp42PFmIxtvZYf0VI5dpeN29QE8nXhhhGI1P
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kVLOnS1jSMMGrtq_ZlQnUuy
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 1 FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kW5iEe_9MIxnbdZ--5gm8Ac
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 1
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kX58z7uwn7chwo445dEScSi
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 2 FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kUosjnpunoai0AWz71AYeOg
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 2
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kVwcwR43nm-VRDQlOSq7hYP
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 3
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kWpRM02EkBsSwi6ShDe9thy
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 4
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kWE2gDt-vF-ahHAAVFfrrFF
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 5
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kVrzHNvr70dq4n5XvhA4To6
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 6
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kVHOwnCMnQacOYsgGesR1m9
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 7
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kVjmQmkKa7J3H5JWtqtr1sS
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 8
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kUPuYQRMalG4TYmrXICEa7l
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 9
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kX6xQ9G9h10SdeVG85ZbF5O
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| MOVISTAR LA LIGA 10
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kVVqYHgPajzxWKkon2x7vLd
+
 #EXTINF:-1 tvg-id="" tvg-name="[ES] LA LIGA TV BAR HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LALIGAHD.png" group-title="Movistar Liga",[ES] LA LIGA TV BAR HD
 http://bandookk.xyz:8000/Geniptv/persian_share/32724
+
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Movistar Liga",|ES| LALIGA TV BAR
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCERG9oeYQdlloDa0kaMKLDj
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| GOL TV FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oPCs1D-Cpz1O7_CjRrMEMwmiCFY660ArvZuO7lbitdQo
+
+#EXTINF:0 tvg-id="GOL.es" group-title="Movistar Liga",|ES| GOL TV
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kUmWh0Me2SR2V3IYb9sfcCc
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| M. DAZN LALIGA 1 FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCGxuDUHE1cjvA5rlFHzebsC
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| M. DAZN LALIGA 1 HD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCEo6qe4uATUdvEjvWmtlUoc
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| M. Dazn LaLiga 1 HD (720P) OP1
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCF_CGcKrRXGlYP83HeOp3F_
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| M. Dazn LaLiga 1 SD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCFzr4FbdwOJ7UDCCQaABuHk
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| M. Dazn LaLiga 2 HD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCHqLBUswdfELFbJJUe48htf
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| M. Dazn LaLiga 2 HD (720P)
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCGLY-74HpVubu6r8w6Dpk0z
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| M. Dazn LaLiga 2 HD (720P) OP1
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCEa9d3xf4HATaxqm03wxVN7
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",|ES| M. Dazn LaLiga 2 SD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCEd0updFfb52RkQ1UFP2289
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| M Liga de Campeones UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="M Liga Campeones",|ESP| M Liga de Campeones UHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32765
 
+#EXTINF:0 tvg-id="ext" group-title="M Liga de Campeones",|ES| MOVISTAR LIGA CAMPEONES FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kU2j8nVQJwI4BV8xefX1b0R
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga de Campeones",|ES| MOVISTAR LIGA CAMPEONES
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kUH37osaYv-7OrGKOiY6X08
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga de Campeones",|ES| MOVISTAR LIGA CAMPEONES 2 FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kW3M97mhTzrN-X4UF5ixqCm
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga de Campeones",|ES| MOVISTAR LIGA CAMPEONES 2
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oL_cKv9Nm_5-OTQHqlO-nKxD11-1mtc9U-4ooe2Oy5UB
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga de Campeones",|ES| MOVISTAR LIGA CAMPEONES 3
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kWN1jen8S5mnf0xJ8gsbdrX
+
 #EXTINF:-1 tvg-id="" tvg-name="|ESP| M Liga de Campeones 3 FHD" tvg-logo="" group-title="M Liga de Campeones",|ESP| M Liga de Campeones 3 FHD
 http://bandookk.xyz:8000/Geniptv/persian_share/32948
 
+#EXTINF:0 tvg-id="ext" group-title="M Liga de Campeones",|ES| MOVISTAR LIGA CAMPEONES 4
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kWlfMx_Eb1i7Tp8Tp8pJdrp
 
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. FORMULA 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="Movistar Deportes",[ES] M. FORMULA 1
+#EXTINF:0 tvg-id="ext" group-title="M Liga de Campeones",|ES| MOVISTAR LIGA CAMPEONES 5
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kWXboEfx3tOrN7kcxjMlwvu
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga de Campeones",|ES| MOVISTAR LIGA CAMPEONES 6
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kXyFOwJ3njL0jb5quF26ksB
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga de Campeones",|ES| MOVISTAR LIGA CAMPEONES 7
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kUu1T4iZ6sTd5pRvHVSIx1m
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga de Campeones",|ES| MOVISTAR LIGA CAMPEONES 8
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oLqbvmBgrtfRqDK7dtNO6kWWui3i0tePcNVkezCUsh6M
+
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga Smartbank",|ES| MOVISTAR LALIGA SMARTBANK FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCGQKRA4NKuTNM4-A0Bzbv3j
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga Smartbank",|ES| MOVISTAR LALIGA SMARTBANK HD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCELixRrHLQXIVNYqr2jyeDf
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga Smartbank",|ES| MOVISTAR LALIGA SMARTBANK 1 FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCGc8PddY_GLDdDN-oQ6jeKi
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga Smartbank",|ES| MOVISTAR LALIGA SMARTBANK 2 FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCFwhjhZso7JqIUxOshWlNOS
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga Smartbank",|ES| MOVISTAR LALIGA SMARTBANK 2 SD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCG8BSXZFFPCp-U8W2GPVCKX
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga Smartbank",|ES| MOVISTAR LALIGA SMARTBANK 3 FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCEU9vehAlaXedqsa8wGzAiz
+
+#EXTINF:0 tvg-id="ext" group-title="M Liga Smartbank",|ES| MOVISTAR LALIGA SMARTBANK 3 SD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCHGcXXiipaWrGYAurHv7khK
+
+
+#EXTINF:0 tvg-id="ext" group-title="M DAZN",|ES| DAZN 1
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oGCrZMm__fc1XEarJfamYaJUEdyJUnSAzrUqw4btE38w
+
+#EXTINF:0 tvg-id="ext" group-title="M DAZN",|ES| DAZN 2 FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oPCs1D-Cpz1O7_CjRrMEMwmWx3DDdvllXuhFo7GR01Nv
+
+#EXTINF:0 tvg-id="ext" group-title="M DAZN",|ES| DAZN 2
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oPCs1D-Cpz1O7_CjRrMEMwloqqrkmb4yb_NgDZMIPUi7
+
+#EXTINF:0 tvg-id="ext" group-title="M DAZN",|ES| DAZN 3 FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oPCs1D-Cpz1O7_CjRrMEMwkeb_tnjofXXvKqv3bNb2up
+
+#EXTINF:0 tvg-id="ext" group-title="M DAZN",|ES| DAZN 4 FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oPCs1D-Cpz1O7_CjRrMEMwmiROFMCplhjoUyvHC--tnR
+
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|ES| DAZN F1 FHD
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oP0MrY3FntF_fzyoDMgLSrtxIWVPEjGTf_2TL2QjMgyr
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Practise / Qualifying / Main Race
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCFGvdPUPxlCqmz3HLPFDPf9
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Data Channel
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCHIKqltAEueDpRAplD1w1yr
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Driver Tracker Channel
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCG1uZFeNXL-HkTDrNJVayO0
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Pit Lane Channel
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCFVkGTT82OPlnfV24-6C0Wt
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Fernando Alonso Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCHvfbx-SbylYZdzz6GYZP8t
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Esteban Ocon Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCFrwp6dxqe3BGyAkhU8Zel4
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Zhou Guanyu Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCGY7iiKd31cDbfnnjyWLq1h
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Max Verstappen Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCH3HhqRVl82s2bnZqBS9sjx
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Lance Stroll Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCHRiNmxkMX8PZTmceDgOBrV
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Carlos Sainz Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCFfFPnn2lUUx8otD9zMjEpQ
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Mick Schumacher Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCFgvC66nM9ClHL9rEETUhex
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Charles Leclerc Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCEoJ_HX6IT4Uhh8WwK_t9EE
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| George Russell Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCGyLuVo7DU3gKrUfFI6kt0Z
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Lewis Hamilton Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCHWDbHjUrFy3fiA_CT-K5zx
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Kevin Magnussen Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCG8YZhe_UttWHKTVnBzCKwP
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Yuki Tsunoda  Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCFDkut4q6vN8p8JUW6Vo_kC
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Daniel Ricciardo Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCGOfys8_r2oi-bgie5l_oOz
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Pierre Gasly Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCGui63wbd5o6c_P-iZPl_aF
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Alexander Albon Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCFYLERhPGkJwtErPczGD_b-
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Sebastian Vettel Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCFHrT9NqpvwGa3WogBV54lF
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Nicholas Latifi Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCEtn_Jdsf4zuVjAMc-sM0PH
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Sergio Perez Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCG3u8nFQ-qspD9rssVwyk9g
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Lando Norris Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCEjwVRyM2bn2ohrATVlVmof
+
+#EXTINF:0 tvg-id="ext" group-title="M FORMULA 1",|F1TV| Valtteri Bottas Helmet Camera
+http://sharity.solanaflix.com:8080/play/-mFsP6fr4Dt1sk1f9gF6oHjhFrDvIlZBf1MzyVhdsCHhp7RSm9QSTWc8lsJFOnXE
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M. FORMULA 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="M FORMULA 1",[ES] M. FORMULA 1
 http://bandookk.xyz:8000/Geniptv/persian_share/32725
 
 #EXTINF:-1 tvg-id="" tvg-name="[ES] TOROS HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TOROSHD.png" group-title="Movistar Deportes",[ES] TOROS HD
