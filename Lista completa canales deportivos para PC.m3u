@@ -436,7 +436,7 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 http://bandookk.xyz:8000/Geniptv/persian_share/32794
 
 #EXTINF:-1 tvg-id="" tvg-name="TVM Cordoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TVM Cordoba
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
+http://totv.org/ads.js?1675019476
 
 #EXTINF:-1 tvg-id="" tvg-name="TV GIRONA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TV GIRONA
 http://bandookk.xyz:8000/Geniptv/persian_share/32805
