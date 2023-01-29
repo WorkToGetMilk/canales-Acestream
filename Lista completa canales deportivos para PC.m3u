@@ -308,17 +308,356 @@ acestream://6adb56e860967c5b1ba08e1bcb1eb2c4245e5842
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="NBA TV", NBA TV 
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ANTENA 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", ANTENA 3 HD
-http://bandookk.xyz:8000/Geniptv/persian_share/32692
 
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CUATRO HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD.png" group-title="Movistar TDT", CUATRO HD
-http://bandookk.xyz:8000/Geniptv/persian_share/32693
+#EXTINF:-1 tvg-id="" tvg-name="Instat1 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat1 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208700
 
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar TDT", CANAL SUR Andalucia
-https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Instat2 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat2 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208701
 
-#EXTINF:-1 tvg-id="" tvg-name="[ES] TVE INTERNACIONAL" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="Instat3 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat3 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208702
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat4 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat4 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208703
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat5 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat5 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208704
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat6 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat6 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208705
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat7 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat7 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208706
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat8 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat8 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208707
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat9 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat9 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208708
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat10 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat10 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208709
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat11 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat11 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208710
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat12 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat12 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208711
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat13 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat13 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208712
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat14 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat14 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208713
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat15 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat15 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208714
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat16 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat16 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208715
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat17 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat17 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208716
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat18 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat18 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208717
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat19 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat19 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208718
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat20 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat20 TV FHD
+https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208719
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE1
 http://bandookk.xyz:8000/Geniptv/persian_share/32700
 
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ARAGON" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="Movistar TDT", ARAGON TV
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="Movistar TDT", LA 2 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/32758
+
+#EXTINF:-1 tvg-id="" tvg-name="TV3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", TV3 HD
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", ANTENA 3 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/32692
+
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD.png" group-title="Movistar TDT", CUATRO HD
+http://bandookk.xyz:8000/Geniptv/persian_share/32693
+
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TELECINCO HD
+http://bandookk.xyz:8000/Geniptv/persian_share/32763
+
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SEXTA HD
+http://bandookk.xyz:8000/Geniptv/persian_share/32760
+
+#EXTINF:-1 tvg-id="" tvg-name="LA SIETE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SIETE HD
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar TDT", CANAL SUR Andalucia
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="Movistar TDT", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="Movistar TDT", BE MAD
+http://bandookk.xyz:8000/Geniptv/persian_share/32734
+
+#EXTINF:-1 tvg-id="" tvg-name="Murcia" tvg-logo="" group-title="Movistar TDT", Murcia
+http://bandookk.xyz:8000/Geniptv/persian_share/32756
+
+#EXTINF:-1 tvg-id="" tvg-name="Televisa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Televisa HD
+http://bandookk.xyz:8000/Geniptv/persian_share/32775
+
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Star TVE FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/32777
+
+#EXTINF:-1 tvg-id="" tvg-name="Melilla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Melilla TV
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Algeciras Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Algeciras Television
+http://bandookk.xyz:8000/Geniptv/persian_share/32785
+
+#EXTINF:-1 tvg-id="" tvg-name="Popular TV Cantabria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Popular TV Cantabria
+http://bandookk.xyz:8000/Geniptv/persian_share/32786
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal San Roque" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal San Roque
+http://bandookk.xyz:8000/Geniptv/persian_share/32787
+
+#EXTINF:-1 tvg-id="" tvg-name="Costa del Sol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Costa del Sol TV
+http://bandookk.xyz:8000/Geniptv/persian_share/32788
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MOLA TV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", MOLA TV HITS
+http://bandookk.xyz:8000/Geniptv/persian_share/32794
+
+#EXTINF:-1 tvg-id="" tvg-name="TVM Cordoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TVM Cordoba
+http://bandookk.xyz:8000/Geniptv/persian_share/32801
+
+#EXTINF:-1 tvg-id="" tvg-name="TV GIRONA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TV GIRONA
+http://bandookk.xyz:8000/Geniptv/persian_share/32805
+
+#EXTINF:-1 tvg-id="" tvg-name="Cazavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Cazavision
+http://bandookk.xyz:8000/Geniptv/persian_share/32806
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA HD" tvg-logo="https://i.ibb.co/k2gT19L/download.png" group-title="Movistar Liga",ES| DAZN LA LIGA HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29223
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA FHD" tvg-logo="https://i.ibb.co/k2gT19L/download.png" group-title="Movistar Liga",ES| DAZN LA LIGA FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29224
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 1 SD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG1.png" group-title="Movistar Liga",ES| M. LaLiga 1 SD (Solo Eventos)
+http://bandookk.xyz:8000/Geniptv/persian_share/29225
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 1  HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG1.png" group-title="Movistar Liga",ES| M. LaLiga 1  HD (Solo Eventos)
+http://bandookk.xyz:8000/Geniptv/persian_share/29226
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 1 FHD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG1.png" group-title="Movistar Liga",ES| M. LaLiga 1 FHD (Solo Eventos)
+http://bandookk.xyz:8000/Geniptv/persian_share/29227
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 1 FHD (Solo Eventos) OP1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG1.png" group-title="Movistar Liga",ES| M. LaLiga 1 FHD (Solo Eventos) OP1
+http://bandookk.xyz:8000/Geniptv/persian_share/29228
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 4 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG4.png" group-title="Movistar Liga",ES| M. LaLiga 4 (Solo Eventos)
+http://bandookk.xyz:8000/Geniptv/persian_share/29255
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 5 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG5.png" group-title="Movistar Liga",ES| M. LaLiga 5 (Solo Eventos)
+http://bandookk.xyz:8000/Geniptv/persian_share/29260
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 6 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG6.png" group-title="Movistar Liga",ES| M. LaLiga 6 (Solo Eventos)
+http://bandookk.xyz:8000/Geniptv/persian_share/29261
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 7 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG7.png" group-title="Movistar Liga",ES| M. LaLiga 7 (Solo Eventos)
+http://bandookk.xyz:8000/Geniptv/persian_share/29262
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 8 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG8.png" group-title="Movistar Liga",ES| M. LaLiga 8 (Solo Eventos)
+http://bandookk.xyz:8000/Geniptv/persian_share/29263
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 9 HD (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG9.png" group-title="Movistar Liga",ES| M. LaLiga 9 HD (Solo Eventos)
+http://bandookk.xyz:8000/Geniptv/persian_share/29264
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 10 (Solo Eventos)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG10.png" group-title="Movistar Liga",ES| M. LaLiga 10 (Solo Eventos)
+http://bandookk.xyz:8000/Geniptv/persian_share/29265
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LA LIGA SD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="Movistar Liga",ES| M+ LA LIGA SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29245
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LA LIGA HD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="Movistar Liga",ES| M+ LA LIGA HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29246
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LA LIGA FHD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="Movistar Liga",ES| M+ LA LIGA FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29247
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 2 FHD (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png" group-title="Movistar Liga",ES| M. LaLiga 2 FHD (H.265)
+http://bandookk.xyz:8000/Geniptv/persian_share/29232
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LA LIGA 2 SD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="Movistar Liga",ES| M+ LA LIGA 2 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29249
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LA LIGA 2 HD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="Movistar Liga",ES| M+ LA LIGA 2 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29250
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LA LIGA 2 FHD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="Movistar Liga",ES| M+ LA LIGA 2 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29251
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LA LIGA 3 SD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="Movistar Liga",ES| M+ LA LIGA 3 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29252
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LA LIGA 3 HD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="Movistar Liga",ES| M+ LA LIGA 3 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29253
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LA LIGA 3 FHD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="Movistar Liga",ES| M+ LA LIGA 3 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29254
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. LaLiga 3 FHD Cable" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png" group-title="Movistar Liga",ES| M. LaLiga 3 FHD Cable
+http://bandookk.xyz:8000/Geniptv/persian_share/29266
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 SD" tvg-logo="https://i.ibb.co/k2gT19L/download.png" group-title="Movistar Liga",ES| DAZN LA LIGA 2 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29229
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 HD" tvg-logo="https://i.ibb.co/k2gT19L/download.png" group-title="Movistar Liga",ES| DAZN LA LIGA 2 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29230
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| LaLiga TV Bar SD" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2016/07/la-liga-logo.jpg" group-title="Movistar Liga",ES| LaLiga TV Bar SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29267
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| LaLiga TV Bar FHD" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2016/07/la-liga-logo.jpg" group-title="Movistar Liga",ES| LaLiga TV Bar FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29268
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| LaLiga TV Bar HD" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2016/07/la-liga-logo.jpg" group-title="Movistar Liga",ES| LaLiga TV Bar HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29269
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| LaLiga TV Bar  HD" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2016/07/la-liga-logo.jpg" group-title="Movistar Liga",ES| LaLiga TV Bar  HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29270
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| LA LIGA TV BAR FHD" tvg-logo="http://nettvgo.in:2052/images/659be3dbd517223e32f729858af604b7.png" group-title="Movistar Liga",ES| LA LIGA TV BAR FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29271
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| LaLiga TV Bar FHD (H.265)" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2016/07/la-liga-logo.jpg" group-title="Movistar Liga",ES| LaLiga TV Bar FHD (H.265)
+http://bandookk.xyz:8000/Geniptv/persian_share/29272
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29273
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29274
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29275
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M Liga de Campeones 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="M Liga Campeones",ES| M Liga de Campeones 4K
+http://bandookk.xyz:8000/Geniptv/persian_share/29276
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 2 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 2 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29277
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 2 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 2 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29278
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 2 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29279
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 3 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 3 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29280
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 3 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 3 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29281
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 3 FHD" tvg-logo="https://www.vhv.rs/dpng/d/474-4747008_download-logo-laliga-spain-football-svg-eps-png.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 3 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29282
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 4 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 4 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29283
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 4 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 4 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29284
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 4 FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 4 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29285
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 5 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 5 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29286
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 5 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 5 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29287
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 5 FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 5 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29288
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 6 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 6 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29289
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 6 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 6 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29290
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 6 FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 6 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29291
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 7 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 7 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29292
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 7 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 7 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29293
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 7 FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 7 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29294
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 8 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 8 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29295
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 8 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 8 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29296
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 8 FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 8 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29297
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 9 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29298
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 9 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29299
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 9 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29300
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 10 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 10 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29301
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 10 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 10 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29302
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 10 FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 10 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29303
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 11 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 11 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29304
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 11 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 11 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29305
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 11 FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 11 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29306
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 12 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 12 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29307
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 12 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 12 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29308
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 12 FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 12 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29309
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 13 SD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 13 SD
+http://bandookk.xyz:8000/Geniptv/persian_share/29310
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 13 HD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 13 HD
+http://bandookk.xyz:8000/Geniptv/persian_share/29311
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 13 FHD" tvg-logo="http://nettvgo.in:2052/images/9e7b8d42508a3b587181f9912f72c1a5.png" group-title="M Liga Campeones",ES| M+ LIGA DE CAMPEONES 13 FHD
+http://bandookk.xyz:8000/Geniptv/persian_share/29312
