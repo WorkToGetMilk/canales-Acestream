@@ -187,6 +187,9 @@ acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="Ellas #V", Ellas #V
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="TDT" tvg-id="Telecinco 1080", Telecinco 1080
+acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png" group-title="TDT" tvg-id="Eventos de Movistar", Eventos de Movistar
 acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
 
