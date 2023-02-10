@@ -230,6 +230,9 @@ acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
 acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 
 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="DEPORTES" tvg-id="WRC", WRC
+acestream://c1811f196da78c5d8d28cd4a7c4c3f797f55c69c
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 1080", M.Deportes 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 
@@ -250,9 +253,6 @@ acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="DEPORTES" tvg-id="M.Deportes 6 1080", M.Deportes 6 1080
 acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="DEPORTES" tvg-id="WRC+", WRC+
-acestream://c1811f196da78c5d8d28cd4a7c4c3f797f55c69c
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa Multi 1080", Supercopa Multi 1080
