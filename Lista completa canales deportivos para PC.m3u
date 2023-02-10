@@ -230,7 +230,7 @@ acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
 acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="DEPORTES" tvg-id="WRC", WRC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC +", WRC +
 acestream://c1811f196da78c5d8d28cd4a7c4c3f797f55c69c
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 1080", M.Deportes 1080
