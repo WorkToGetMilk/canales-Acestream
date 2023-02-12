@@ -110,6 +110,10 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="King League" tvg-id="King League", King League
+acestream://4cc5adc2fbcc4bb5a9f436130c5ec349d172cc2b
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 1080", DAZN 1 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 
