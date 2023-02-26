@@ -407,7 +407,7 @@ http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62377
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61103
 
 #EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SEXTA HD
-http://bandookk.xyz:8000/Geniptv/persian_share/32760
+http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61045
 
 #EXTINF:-1 tvg-id="" tvg-name="LA SIETE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SIETE HD
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
@@ -419,7 +419,7 @@ https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="Movistar TDT", BE MAD
-http://bandookk.xyz:8000/Geniptv/persian_share/32734
+http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84541
 
 #EXTINF:-1 tvg-id="" tvg-name="Murcia" tvg-logo="" group-title="Movistar TDT", Murcia
 http://bandookk.xyz:8000/Geniptv/persian_share/32756
@@ -448,273 +448,383 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32788
 #EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",? Spain [ES] ?
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="Movistar Infantil",ES | Clan TVE
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",? Spain [ES] ?
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/60988
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",Blaze ES
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",Blaze ES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61005
-#EXTINF:0 tvg-id="24Horas.sp" group-title="ES | SPANISH",ES | Canal 24 Horas
+
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Movistar TDT",ES | Canal 24 Horas
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES | SPANISH",ES | La Sexta HD
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61045
-#EXTINF:0 tvg-id="Mega.es" group-title="ES | SPANISH",ES | Mega
+
+#EXTINF:0 tvg-id="Mega.es" group-title=Movistar TDT",ES | Mega
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61050
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ #Vamos
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",ES | M+ #Vamos
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61060
-#EXTINF:0 tvg-id="M.Estrenos.es" group-title="ES | SPANISH",Movistar Estrenos ES
+
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Movistar Cine",Movistar Estrenos ES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61063
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ Estrenos HD
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Cine",ES | M+ Estrenos HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61064
-#EXTINF:0 tvg-id="Golf.es" group-title="ES | SPANISH",ES | Movistar Golf HD
+
+#EXTINF:0 tvg-id="Golf.es" group-title="Movistar Deportes",ES | Movistar Golf HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61069
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ Deportes 1 HD
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",ES | M+ Deportes 1 HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61070
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ Series 2
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Series",ES | M+ Series 2
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61071
-#EXTINF:0 tvg-id="Neox.es" group-title="ES | SPANISH",ES | Neox
+
+#EXTINF:0 tvg-id="Neox.es" group-title="Movistar TDT",ES | Neox
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61081
-#EXTINF:0 tvg-id="Scifi.es" group-title="ES | SPANISH",Syfy ES
+
+#EXTINF:0 tvg-id="Scifi.es" group-title="Movistar TDT",Syfy ES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61089
-#EXTINF:0 tvg-id="Scifi.es" group-title="ES | SPANISH",ES | Syfy HD
+
+#EXTINF:0 tvg-id="Scifi.es" group-title="Movistar TDT",ES | Syfy HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61091
-#EXTINF:0 tvg-id="Telecinco.es" group-title="ES | SPANISH",Telecinco HD ES
+
+#EXTINF:0 tvg-id="Telecinco.es" group-title="Movistar TDT",Telecinco HD ES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61104
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",Movistar LaLiga ES
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",Movistar LaLiga ES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61125
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",DMAX ES
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",DMAX ES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61126
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",Movistar Liga de Campeones  ES
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",Movistar Liga de Campeones  ES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61137
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | DAZN 1 FHD
+
+#EXTINF:0 tvg-id="ext" group-title="DAZN",ES | DAZN 1 FHD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61138
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES: Blaze
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",ES: Blaze
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62286
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | Dark HD
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",ES | Dark HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62287
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES: LA 1 ES
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",ES: LA 1 ES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62290
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES: Movistar 0# FHD
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",ES: Movistar 0# FHD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62291
-#EXTINF:0 tvg-id="M.Accion.es" group-title="ES | SPANISH",ES: Movistar Accion
+
+#EXTINF:0 tvg-id="M.Accion.es" group-title="Movistar Cine",ES: Movistar Accion
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62292
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ Deporte
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",ES | M+ Deporte
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62293
-#EXTINF:0 tvg-id="Panda.es" group-title="ES | SPANISH",ES: Panda
+
+#EXTINF:0 tvg-id="Panda.es" group-title="Movistar Infantil",ES: Panda
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62295
-#EXTINF:0 tvg-id="AXNhd.es" group-title="ES | SPANISH",ES | AXN
+
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Movistar Cine",ES | AXN
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62297
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] AXN WHITE
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Cine",[ES] AXN WHITE
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62298
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] beIN Sports
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",[ES] beIN Sports
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62299
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] TAQUILLA 8
+
+#EXTINF:0 tvg-id="ext" group-title="TAQUILLAS",[ES] TAQUILLA 8
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62300
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] TAQUILLA 9
+
+#EXTINF:0 tvg-id="ext" group-title="TAQUILLAS",[ES] TAQUILLA 9
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62301
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES | SPANISH",ES | COMEDY CENTRAL
+
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Movistar TDT",ES | COMEDY CENTRAL
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62302
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] DKISS
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62304
-#EXTINF:0 tvg-id="Energy.es" group-title="ES | SPANISH",ES | ENERGY
+
+#EXTINF:0 tvg-id="Energy.es" group-title="Movistar TDT",ES | ENERGY
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62305
-#EXTINF:0 tvg-id="Fox.es" group-title="ES | SPANISH",ES | FOX HD
+
+#EXTINF:0 tvg-id="Fox.es" group-title="Movistar TDT",ES | FOX HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62307
-#EXTINF:0 tvg-id="LA2.es" group-title="ES | SPANISH",ES | LA 2
+
+#EXTINF:0 tvg-id="LA2.es" group-title="Movistar TDT",ES | LA 2
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62308
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] La Liga TV BAR
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",[ES] La Liga TV BAR
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62309
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ Drama
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Cine",ES | M+ Drama
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62310
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ SERIES
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Series",ES | M+ SERIES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62311
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] TNT
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Cine",[ES] TNT
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62313
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | Telemadrid TV
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",ES | Telemadrid TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62314
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] AL JAZEERA ENGLISH
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",[ES] AL JAZEERA ENGLISH
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62315
-#EXTINF:0 tvg-id="AMC.es" group-title="ES | SPANISH",ES | AMC
+
+#EXTINF:0 tvg-id="AMC.es" group-title="Movistar TDT",ES | AMC
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62316
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] BABY TV
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Infantil",[ES] BABY TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62317
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] BARCA TV
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",[ES] BARCA TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62318
-#EXTINF:0 tvg-id="Boing.es" group-title="ES | SPANISH",ES | BOING
+
+#EXTINF:0 tvg-id="Boing.es" group-title="Movistar Infantil",ES | BOING
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62319
-#EXTINF:0 tvg-id="Calle13.es" group-title="ES | SPANISH",ES | CALLE 13
+
+#EXTINF:0 tvg-id="Calle13.es" group-title="Movistar Cine",ES | CALLE 13
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62321
-#EXTINF:0 tvg-id="Cocina.es" group-title="ES | SPANISH",ES | CANAL COCINA
+
+#EXTINF:0 tvg-id="Cocina.es" group-title="Movistar TDT",ES | CANAL COCINA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62322
-#EXTINF:0 tvg-id="Decasa.es" group-title="ES | SPANISH",ES | CANAL DECASA
+
+#EXTINF:0 tvg-id="Decasa.es" group-title="Movistar TDT",ES | CANAL DECASA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62323
-#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="ES | SPANISH",ES | CANAL EXTREMADURA SAT
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62324
-#EXTINF:0 tvg-id="Panda.es" group-title="ES | SPANISH",ES | CANAL PANDA
+
+#EXTINF:0 tvg-id="Panda.es" group-title="Movistar Infantil",ES | CANAL PANDA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62325
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] CAZAYPESCA
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",[ES] CAZAYPESCA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62326
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] CRIMEN+INVESTIGACION
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",[ES] CRIMEN+INVESTIGACION
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62328
-#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES | SPANISH",ES | DISCOVERY
+
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="Movistar TDT",ES | DISCOVERY
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62330
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] DISNEY CH
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Infantil",[ES] DISNEY CH
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62331
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] DISNEY JR
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Infantil",[ES] DISNEY JR
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62332
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] DISNEY XD
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Infantil",[ES] DISNEY XD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62333
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | DIVINITY HD
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",ES | DIVINITY HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62334
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] ETB 1
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",[ES] ETB 1
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62335
-#EXTINF:0 tvg-id="Eurosport1.es" group-title="ES | SPANISH",ES | EUROSPORT 1
+
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="Movistar Deportes",ES | EUROSPORT 1
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62336
-#EXTINF:0 tvg-id="Eurosport2.es" group-title="ES | SPANISH",ES | EUROSPORT 2
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="Movistar Deportes",ES | EUROSPORT 2
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62337
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] FOX NEWS
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",[ES] FOX NEWS
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62338
-#EXTINF:0 tvg-id="GaliciaTV.sp" group-title="ES | SPANISH",ES | GALICIA TV
+
+#EXTINF:0 tvg-id="GaliciaTV.sp" group-title="Movistar TDT",ES | GALICIA TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62340
-#EXTINF:0 tvg-id="GOL.es" group-title="ES | SPANISH",ES | GOL TV
+
+#EXTINF:0 tvg-id="GOL.es" group-title="Movistar Deportes",ES | GOL TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62341
-#EXTINF:0 tvg-id="Historia.es" group-title="ES | SPANISH",ES | HISTORIA
+
+#EXTINF:0 tvg-id="Historia.es" group-title="Movistar TDT",ES | HISTORIA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62342
-#EXTINF:0 tvg-id="Hollywood.es" group-title="ES | SPANISH",ES | HOLLYWOOD
+
+#EXTINF:0 tvg-id="Hollywood.es" group-title="Movistar Cine",ES | HOLLYWOOD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62343
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ ACCION
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Cine",ES | M+ ACCION
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62346
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+CINE ESPA
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Cine",ES | M+CINE ESPA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62347
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] M. CINEDOC&ROLL
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Cine",[ES] M. CINEDOC&ROLL
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62348
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ COMEDIA
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Cine",ES | M+ COMEDIA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62349
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ DEPORTES 2
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",ES | M+ DEPORTES 2
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62350
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ DEPORTES 3
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",ES | M+ DEPORTES 3
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62351
-#EXTINF:0 tvg-id="DisneyChannel.es" group-title="ES | SPANISH",ES | Disney Channel
+
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="Movistar Infantil",ES | Disney Channel
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62352
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] M. FORMULA1
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar F1",[ES] M. FORMULA1
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62353
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] MOVISTAR GOLF FHD
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",[ES] MOVISTAR GOLF FHD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62354
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ LALIGA
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",ES | M+ LALIGA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62355
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES |  M+LIGA CAMPEONES HD
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",ES |  M+LIGA CAMPEONES HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62356
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] M. LALIGA 3
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Liga",[ES] M. LALIGA 3
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62358
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] M. LIGA DE CAMPEONES
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",[ES] M. LIGA DE CAMPEONES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62359
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] MEZZO LIVE
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",[ES] MEZZO LIVE
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62360
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] MOTOGP (DAZN)
+
+#EXTINF:0 tvg-id="ext" group-title="DAZN",[ES] MOTOGP (DAZN)
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62361
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | MTV ESPA
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",ES | MTV ESPA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62362
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES | SPANISH",ES | NATIONAL GEOGRAPHIC HD
+
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="Movistar TDT",ES | NATIONAL GEOGRAPHIC HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62363
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] NICK JR
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Infantil",[ES] NICK JR
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62364
-#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES | SPANISH",ES | NICKELODEON
+
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="Movistar Infantil",ES | NICKELODEON
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62365
-#EXTINF:0 tvg-id="Nova.es" group-title="ES | SPANISH",ES | NOVA
+
+#EXTINF:0 tvg-id="Nova.es" group-title="Movistar TDT",ES | NOVA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62366
-#EXTINF:0 tvg-id="Odisea.es" group-title="ES | SPANISH",ES | ODISEA
+
+#EXTINF:0 tvg-id="Odisea.es" group-title="Movistar TDT",ES | ODISEA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62367
-#EXTINF:0 tvg-id="Paramount.es" group-title="ES | SPANISH",ES | Paramount Channel
+
+#EXTINF:0 tvg-id="Paramount.es" group-title="Movistar Infantil",ES | Paramount Channel
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62368
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] REAL MADRID TV
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",[ES] REAL MADRID TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62369
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] SOL MUSICA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62370
+
 #EXTINF:0 tvg-id="Somos.es" group-title="ES | SPANISH",ES | SOMOS
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62371
+
 #EXTINF:0 tvg-id="Sundance.es" group-title="ES | SPANISH",ES | SUNDANCE
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62372
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] TCM
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62373
+
 #EXTINF:0 tvg-id="Teledeporte.es" group-title="ES | SPANISH",ES | TELEDEPORTE
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62374
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] TOROS TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62375
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] XTRM
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62376
+
 #EXTINF:0 tvg-id="AXNWhite.es" group-title="ES | SPANISH",ES | AXN White FHD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62379
+
 #EXTINF:0 tvg-id="BabyTV.es" group-title="ES | SPANISH",ES | BABY TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62380
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] CLASSICA
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62384
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",[ES] M. DEPORTES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62423
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | CANAL SUR ANDALUCIA HD
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62480
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
 #EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES | SPANISH",ES | COSMO
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62484
+
 #EXTINF:0 tvg-id="FDF.es" group-title="ES | SPANISH",ES | Factoría de Ficción
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62488
+
 #EXTINF:0 tvg-id="Esport3.es" group-title="ES | SPANISH",ES | Esport3
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/73597
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | 324 tv
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/73598
+
 #EXTINF:0 tvg-id="TV3cat.es" group-title="ES | SPANISH",ES | TV3 CAT
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/73599
+
 #EXTINF:0 tvg-id="Viajar.es" group-title="ES | SPANISH",ES | VIAJAR
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/75018
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | DAZN 2 HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/75775
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | DAZN 3 HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/75776
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | Dazn 4 HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/75777
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | Dazn F1
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84525
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | Dazn la liga
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84526
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | Dazn 1 Directo
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84527
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | Zona Dazn
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84528
-#EXTINF:0 tvg-id="ClanTVE.es" group-title="ES | SPANISH",ES | Clan TVE
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84540
-#EXTINF:0 tvg-id="BEMAD.es" group-title="ES | SPANISH",ES | BE MAD
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84541
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ #0
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84542
+
 #EXTINF:0 tvg-id="TV3.es" group-title="ES | SPANISH",ES | TV3
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84543
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 1
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 1
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84544
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 2
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 2
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84545
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 3
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 3
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84546
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 4
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 4
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84547
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 5
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 5
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84548
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 6
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 6
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84549
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 7
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 7
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84550
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 8
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 8
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84551
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 9
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 9
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84552
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 10
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 10
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84553
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 11
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 11
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84554
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",M+ Liga de Campeones 12
+#EXTINF:0 tvg-id="ext" group-title="Movistar Campeones",M+ Liga de Campeones 12
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84555
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",ES | M+ Deportes 4
+http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84557
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",ES | M+ Deportes 5
+http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84558
+
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",ES | M+ Deportes 6
+http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84559
+
 #EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | El Toro TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84556
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ Deportes 4
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84557
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ Deportes 5
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84558
-#EXTINF:0 tvg-id="ext" group-title="ES | SPANISH",ES | M+ Deportes 6
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84559
 
 
