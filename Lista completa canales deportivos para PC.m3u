@@ -428,7 +428,7 @@ http://bandookk.xyz:8000/Geniptv/persian_share/32756
 http://bandookk.xyz:8000/Geniptv/persian_share/32775
 
 #EXTINF:-1 tvg-id="" tvg-name="Star TVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Star TVE FHD
-http://bandookk.xyz:8000/Geniptv/persian_share/32777
+http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95439
 
 #EXTINF:-1 tvg-id="" tvg-name="Melilla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Melilla TV
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
@@ -827,4 +827,5 @@ http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84559
 #EXTINF:0 tvg-id="ext" group-title="Movistar TDT",ES | El Toro TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84556
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo. svg.png" group-title="Movistar Series" tvg-id="Movistar Clásicos", M+ Clásicos
+http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/178093
