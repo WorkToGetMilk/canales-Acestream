@@ -577,7 +577,7 @@ http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62316
 #EXTINF:0 tvg-id="ext" group-title="Movistar Infantil",[ES] BABY TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62317
 
-#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",[ES] BARCA TV
+#EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",[ES] BARÇA TV
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62318
 
 #EXTINF:0 tvg-id="Boing.es" group-title="Movistar Infantil",ES | BOING
@@ -783,9 +783,6 @@ http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84527
 
 #EXTINF:0 tvg-id="ext" group-title="DAZN",ES | Zona Dazn
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84528
-
-#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",ES | M+ #0
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84542
 
 #EXTINF:0 tvg-id="TV3.es" group-title="Movistar TDT",ES | TV3
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84543
