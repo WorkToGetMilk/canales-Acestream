@@ -451,16 +451,13 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 #EXTINF:0 tvg-id="ClanTVE.es" group-title="Movistar Infantil",ES | Clan TVE
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",? Spain [ES] ?
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/60988
-
 #EXTINF:0 tvg-id="ext" group-title="Movistar TDT",Blaze ES
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61005
 
 #EXTINF:0 tvg-id="24Horas.sp" group-title="Movistar TDT",ES | Canal 24 Horas
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 
-#EXTINF:0 tvg-id="Mega.es" group-title=Movistar TDT",ES | Mega
+#EXTINF:0 tvg-id="Mega.es" group-title="Movistar TDT",ES | Mega
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61050
 
 #EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",ES | M+ #Vamos
