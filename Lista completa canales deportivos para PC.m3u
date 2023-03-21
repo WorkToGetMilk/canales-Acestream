@@ -264,10 +264,10 @@ acestream://c1811f196da78c5d8d28cd4a7c4c3f797f55c69c
 acestream://1337384461e30979b22c63ca0c9e2804fb3e1091
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="RALLY" tvg-id="FS2", FS2
-acestream://bcfed416bb9e58d28b3099bd66885f7754418a9b
+acestream://63ab9528b16e536be0da44d6f5aceac357292b95
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/FS1-Logo-Claim-NEG-RGB-rund.png" group-title="RALLY" tvg-id="FS1", FS1
-acestream://dfaf86b9a2df692aaaf28e4c3b1d78303f467cda
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/FS1-Logo-Claim-NEG-RGB-rund.png" group-title="RALLY" tvg -id="FS1", FS1
+acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 1080", M.Deportes 1080
@@ -293,22 +293,6 @@ acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC3zDsbK/banner-tennis-tv-750.jpg" group-title="DEPORTES" tvg-id="Tenis Live", Tenis Live
 acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
-
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa Multi 1080", Supercopa Multi 1080
-acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa Multi 1080", Supercopa Multi 1080
-acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa 1080", Supercopa 1080
-acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa 720", Supercopa 720
-acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa HD", Supercopa HD
-acestream://e9bc4bcd896339174c25ca95d4828af39f1f7706
 
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" group-title="Alemania" tvg-id="(DE) DAZN 1", (DE) DAZN 1
@@ -351,8 +335,16 @@ acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1 FHD", BT SPORT 1 FHD
 acestream://6adb56e860967c5b1ba08e1bcb1eb2c4245e5842
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Fox_Sports_Logos_%28Basico%2C_Premium%2C_HD%29.png" group-title="Reino Unido" tvg-id ="Fox Deportes Premium", Fox Deportes Premium
+acestream://acestream://63ab9528b16e536be0da44d6f5aceac357292b95
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="NBA TV", NBA TV 
 acestream://e72d03fb9694164317260f684470be9ab781ed95
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfXybjP0/match-premier-logo-8-A89-A040-BF-seeklogo-com.png" group-title="Rusia" tvg -id="Partido Premier", Partido Premier
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Instat1 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat1 TV FHD
