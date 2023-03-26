@@ -434,7 +434,7 @@ http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61045
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar TDT", CANAL SUR Andalucia
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+http://champions.rtva.stream.flumotion.com/rtva/champions.flv.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="ARAGON TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="Movistar TDT", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
