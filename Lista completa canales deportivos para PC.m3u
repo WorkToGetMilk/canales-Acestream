@@ -345,6 +345,8 @@ acestream://e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfXybjP0/match-premier-logo-8-A89-A040-BF-seeklogo-com.png" group-title="Rusia" tvg -id="Partido Premier", Partido Premier
 acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfXybjP0/match-premier-logo-8-A89-A040-BF-seeklogo-com.png" group-title="Rusia" tvg-id="Okko Sport TV", Okko Sport TV
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Instat1 tv fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="Instat tv",Instat1 TV FHD
