@@ -858,3 +858,8 @@ http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/84556
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo. svg.png" group-title="Movistar Series" tvg-id="Movistar Clásicos", M+ Clásicos
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/178093
+
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Peliculas" tvg-id="Prueba Peli", Prueba Peli
+https://api.mp4.to/static/downloads/fce2944f7c324e34ba2f22211f5e17be/los-croods-una-nueva-era-2020.m3u8
+
