@@ -507,6 +507,9 @@ http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61069
 #EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",ES | M+ Deportes 1 HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61070
 
+#EXTINF:0 tvg-id="MotoGP" group-title="Movistar Deportes",MotoGP
+https://vkvsd68.mycdn.me/hls/3956344359450.m3u8/sig/jc66cE__z0A/expires/1680350678275/srcIp/37.14.131.253/urls/45.136.21.85/clientType/13/srcAg/CHROME_ANDROID/mid/4831052639002/3956344359450_fullhd/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Movistar Series",ES | M+ Series 2
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61071
 
