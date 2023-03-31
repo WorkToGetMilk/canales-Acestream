@@ -157,6 +157,9 @@ acestream//a4d17dec3b341fb4c10afab81068dca29c5e9a4a
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 720", DAZN F1 720
 acestream//a52bf7c28df63995ad427c32ebf1e517445720bb
 
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="F1 ALO", F1 ALO
+acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="F1 TVPRO", F1 TVPRO
 acestream//63add41b197c2492f2ec7156cdedb427e999370b
 
@@ -413,14 +416,11 @@ https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208718
 https://kakamora.club:2087/AntonioLaz/4M58xhx2P4xt/17208719
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Ibai" tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch", Ibai
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Cp0EjyjyveNmDwQBkpbF4lAW92Or6FaJwyZ4lHMlvKqZy2TSXYUq9eFxJZWjJfl9-MhlBL57oAQdeOXN9eFnYcXJx6PddExiJcfZ12omMq2y16lMDpn2r2TnwleOaV3uoJz_NduFCJM52q5iCXNrhH2h8Es8HPqlziniKVEaPSjjwOAGN3YpzNaBy-FVsZOFqZuKq5T2wiotYh0pdrcH11HGOR9QYf1-XR1jgAPX7-H13sQjYfFyZ5_NFgtSpFBekziHkg4n10jJmgsq7T2yr2tn2h_NVM18hFmgdWip928SYz7ol7zzb8D-Ip5nwR5DRZlHZtzAVBuB0dAgqD93W63dlLcNbavUeT7K1PW3GBSaiGQErABNSE5HIYmfIJ0YiRBuAdBPJEvC1RjmdigWu6MRKOD9XKE4z1RnBIzU4UzF85bDoAbNpp6tqVPSonouqHLO1J9E1hAqVdef-2L63lMXvL2ZTLk8vqAdLA9lvCHFSFKumeHh2R8SPzmJDAJ8NvY-ERM0u0j-DjkKqbYB_PugD2IMCAoHmQtkhYhe7q-DubwPUv9sKaaw0aOqYCx61cas2u1jvOV-rhFEA3J6ZPZrtbTw4M3OCFxfE1GdQGXUMJsmnyvW2xjAhaHsKWWpFzT2vm21XnN0VALb8kpdoDjNyIbO067BcNCJa9o04xuFrOFukg-0mvQUGJlzFJO9XDmMb3TYcP9RHomqgA2WVhoMdtXuhkC0PuBzZERCIAEqCWV1LXdlc3QtMjCbBg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NicoAbadTV" tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch", NicoAbadTV
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrAE44YG-4EiJefoHdmfCLQKlGHReI_OukrMxM6EjSR1eK6LMqNFuKz7D984RigzsVMyKm89q7f2Z5wA9wLqvCDTefTlMIvP4NFXA8CZHZ9HKPZJTV9Mir9OYEViIVinhOg9kxyAlXafMi4-YFgPEbfR8jQgjNjaY6VVQYyZ9GMGQYpP-QxCgXfQ5MITHA9X1cFeytuu5AEQQ_xK8oA1Me1vGiGHYsNRawIilePUTg-ukfhRFarjzYp6dtZV4FcekQtPLKG_sIg0KrUXxxktbUnVrz0oae7H-CUQnwawKNJ-1DIoDna3xrEBCQHyASc0v74wXznoj1Zxa6Z29yfwrXgLtk-QtZvYHUEweijWeHDuWyp3eTiNLGKAKJEdWBmShz6JuAprowSn1uqHtmfGh8QCdHbDZsXGnBC02NDTOzCRPlPSq3me-drZHIebphToUXNux1y1a6-PgFvHPCF9x_mJ7lAxD_pHrfkFMKCkDHsq1NvBSl4Gy0jOJiFkb5kjXdNoxubVP4EK8aWvdlTjsXVMeznWzVGuGe7RUcBh1OFK1v3UclL_AOolBwyfjFisDkvO_JzbkMpg8IVdXIAMeyg-QkVKbZ6O0PObNWTuQQvAzApT4GrZgAs6Jro6DGejv9SOM4x4dA3III7p4kH502o74wnLO5Wgp5BK-6lzTiXzZXIVigJ6x3YOaxp1xjlgf87oW5ZGIwHomF7tOSL0dr0N8uj1YtDdTBmZZKsRG3D2be0aDBiHGVZlmw0cVqFesiABKglldS13ZXN0LTIwnAY.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="El Chiringuito" tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch", El Chiringuito
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CsIEz-bFnpT37r6e_UTlemB3OwBKx56mLDT2o4yfpmH1qIRNFGvXVAlHhbNFnavLPyacRwkGr9FDc49QpH_PR_njosfKLQHz8fLSBOOPED2rPeYfo34teIXbu0aq4HraFnOrTb2IW4FJP5rgk_oShWVzCCLpFJ2ueZuT47vMkhqTThXMGtZbNuMRG6_XIdFCLXeHUb4khIGd8eLdceMjQ2Dk57LbAy8euzofZokI7IWVlNfJKJyj4pLRngr-PN1Q5gX7TnpjyIY3mbQylc7gKsCzsmjeHaBguL_Bl1jHW7lL_9qeCcj_1mLaTal5Q2lxaZwgjdE_WSl2-6_D6MSj8jqZqPlJaH5T3lq0aI2wQdHIkc-ZNGhnk31REME19DPtgifq3dHZFbZKN7IjuRH2yHL5_GgZQM2Tn1IJsZyGo02niSlECJkHY9KPVRmJBQK0Mlyo9m68J5J_xszh4qN0SSyocblEJb3ts7iztrPjj5UeAwbDy2IA00TXLzHwEnMe_8q5HBLLkkAUY3OCpeN5R_vGTirNfKfHc8NZv67EpV-1kGIQVLnwC7-jc7v911k9jhRFBIpYEDBbP3vH8xged4XXP9I0v6MI9-E0yQr7Kaokv9ntUzF7plq-us0B9jrZJ-nGRVPVJmYOBuy6FjPWlsgxl3r4W10OQ5xTiiv4FOPWd37AZhNhUDV-DsZDkU8BCxGhMQTiwSb0GxCtSJrlRLl11gJkAOOjt0cOx0XddZ5JGxWD-1pBmTIZTEyEewGxrzbClikaDKy7c8KdtcflFrHuHyABKglldS13ZXN0LTIwmgY.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PapaBuyer" tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch", PapaBuyer
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrAE636X6pDAye79VO3kbqMBRI_3lNH7Q6Cg7pdXlLLTCK4Ao-nOe8gzPo_cz5989YpPjwdpem54d-t03D47e6zRxm3OIkGW86U0_-ijLTxvRvSYaC21e3pvy_1_Pmtkkzxp7CP8jMY__u0L05YySqgKZ6b224qWm41l4iB5T7aqzFguFHYDrxIaRV187eFC-FzEFuulZXhb8eGvjtsDnd4uBuUFojH01ORnM9UtalkAzI7qFMa2hI6I35G3dFj0lNYXbFAJ2lsplgd30Ky89IzN9uSUqDvxu4UhELMHYJ-lqTjx38IAWZ9n4JuU8jRT6ByEUJ-8BBIT0NG096miPknUrzs3uTex09NIM5JaXGuat82_RXIPQwE7iH9M-euZ7yQQP_H8juQSpQpgb-wNa9EZhj84lhKEuuyRF5FpMPcjUVMq7tAL5BISIdLvRDWEOGNpnwTr6uRXzKEm8rEDgJInWjF02d2bLG6CgXsDuevh6PhlnWTD7Qvrr_1ChRJ0lQQ8W38iDTCvJdd4xErL_ytk63r_Nbgk5F3OUFWi_E9MSV6CF14_TctjWT2kpoqmRP3PhtqRkTknyP2cj6h680H8XavgeYYU6OrR8iHLoMs5g4SLkQ-WPtwyAMgetwDtx8gMH4FGk0ykl4Bwrv-AdiydoL46oXR8-5n8rgZOj98kYevI2mD6JvgmoP9uCm9ZZPl67cenKKvwcWLMXmc8A8ltqf0_6qTNTvJ_orXoT4xrEjUaDOUbi9ljqiMKAhIfqCABKglldS13ZXN0LTIwmgY.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE1
@@ -869,5 +869,3 @@ http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/178093
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Peliculas" tvg-id="Los Croods 2: Una nueva era", Los Croods 2: Una nueva era
 https://api.mp4.to/static/downloads/fce2944f7c324e34ba2f22211f5e17be/los-croods-una-nueva-era-2020.m3u8
-
-
