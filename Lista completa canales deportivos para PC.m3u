@@ -501,8 +501,9 @@ http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61063
 #EXTINF:0 tvg-id="ext" group-title="Movistar Cine",ES | M+ Estrenos HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61064
 
-#EXTINF:0 tvg-id="Golf.es" group-title="Movistar Deportes",ES | Movistar Golf HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png" group-title="Movistar Deportes",ES | Movistar Golf HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61069
+
 
 #EXTINF:0 tvg-id="ext" group-title="Movistar Deportes",ES | M+ Deportes 1 HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61070
@@ -640,13 +641,13 @@ http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62328
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62330
 
 #EXTINF:0 tvg-id="ext" group-title="Movistar Infantil",[ES] DISNEY CH
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62331
+http://45.238.20.235:8000/play/a16j/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Movistar Infantil",[ES] DISNEY JR
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62332
+http://45.238.20.235:8000/play/a10y/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Movistar Infantil",[ES] DISNEY XD
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62333
+http://45.238.20.235:8000/play/a0ze/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Movistar TDT",ES | DIVINITY HD
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62334
