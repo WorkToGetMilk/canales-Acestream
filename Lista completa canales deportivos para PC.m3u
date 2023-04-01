@@ -431,7 +431,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 #EXTINF:0 tvg-id="Mega.es" group-title="Movistar TDT",ES | Mega
 http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61050
 
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: ▁ ▂ ▄ ▅ ▆☆ SPANISH SPORT☆▆ ▅ ▄ ▂ ▁
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: ▁ ▂ ▄ ▅ ▆☆ESPAÑA DEPORTES☆▆ ▅ ▄ ▂ ▁
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4295
 #EXTINF:0 tvg-id="BarcaTV.es" group-title="DEPORTES: ESPAÑA⚽",ESP-4: BARCA TV
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4296
@@ -555,7 +555,7 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4355
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4356
 #EXTINF:0 tvg-id="Teledeporte.es" group-title="DEPORTES: ESPAÑA⚽",ESP-4: TELEDEPORTE
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4357
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR TOROS FULL HD
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MUNDOTORO TV HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4362
 #EXTINF:0 tvg-id="RealMadridTV.es" group-title="DEPORTES: ESPAÑA⚽",ESP-4: REAL MADRID TV
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/132056
@@ -563,9 +563,6 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/132056
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140378
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: DAZN Formula 1 GP
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/151641
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MUNDOTORO TV HD
-http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
-
 
 
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TCM HD HEVC
