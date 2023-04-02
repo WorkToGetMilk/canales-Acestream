@@ -557,7 +557,7 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4357
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MUNDOTORO TV HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4362
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MUNDOTORO TV 🐂
-http://fxorexworld.com:8080/live/NARKbrl7Zn/jOyEtGY6l2/1132.ts
+http://fxorexworld.com:8080/live/NARKbrl7Zn/jOyEtGY6l2/1132.mp2t
 #EXTINF:0 tvg-id="RealMadridTV.es" group-title="DEPORTES: ESPAÑA⚽",ESP-4: REAL MADRID TV
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/132056
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA DE CAMPEONES 3 (Solo Eventos)
@@ -1497,10 +1497,6 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/160063
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/160064
 #EXTINF:0 tvg-id="ext" group-title="CASA DE LOS FAMOSOS/2023⭐️",La Casa De Los Famosos CAM 3
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/160065
-
-
-#EXTINF:0 tvg-id="ext" group-title="Instat",Instat 1
-http://stalkertvlatinopanel.com:8080/dd41cb18c930753cbecf993f828603dc/d0970714757783e6cf17b26fb8e2298f/149437.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Peliculas" tvg-id="Los Croods 2: Una nueva era", Los Croods 2: Una nueva era
