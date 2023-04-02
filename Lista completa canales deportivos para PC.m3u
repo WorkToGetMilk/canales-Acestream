@@ -404,12 +404,6 @@ http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95439
 #EXTINF:-1 tvg-id="" tvg-name="Melilla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Melilla TV
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Algeciras Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Algeciras Television
-http://bandookk.xyz:8000/Geniptv/persian_share/32785
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal San Roque" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal San Roque
-http://bandookk.xyz:8000/Geniptv/persian_share/32787
-
 #EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
@@ -417,7 +411,7 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Movistar TDT",Blaze ES
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61005
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126166
 
 #EXTINF:0 tvg-id="24Horas.sp" group-title="Movistar TDT",ES | Canal 24 Horas
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
@@ -560,6 +554,8 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/132056
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140378
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: DAZN Formula 1 GP
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/151641
+#EXTINF:-1 tvg-id="" tvg-name="Caza Y Pesca" tvg-logo="" group-title="DEPORTES: ESPAÑA⚽",Caza Y Pesca
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
 
 
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TCM HD HEVC
@@ -607,7 +603,7 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126181
 #EXTINF:0 tvg-id="GaliciaTVEuropa.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: GALICIA TV
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126182
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR COMEDIA HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126183
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69307.ts
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR SERIE HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126184
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR SERIES MANIA HD
@@ -645,9 +641,9 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126201
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: DISNEY CHANEL HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126202
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: DISNEY XD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126203
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69324.ts
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: DISNEY JR
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126204
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69322.ts
 #EXTINF:0 tvg-id="Decasa.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CANAL CASA
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126205
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: COSMO HD
@@ -729,7 +725,7 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126243
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: BLAZE
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126244
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR ACCION HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126245
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR DRAMA HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126246
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: SERIES MANIA FHD
@@ -812,7 +808,8 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/143844
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/143986
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: PARAMOUNT HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/144035
-
+#EXTINF:-1 tvg-id="" tvg-name="Discovery " tvg-logo="" group-title="ESPAÑA: PREMIUM⭐️",Discovery
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
 
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: ANTENA INTERNACIONAL HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140350
