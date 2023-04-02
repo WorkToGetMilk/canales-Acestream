@@ -372,16 +372,16 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", ANTENA 3 HD
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62296
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69299.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD.png" group-title="Movistar TDT", CUATRO HD
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/62377
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69300.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TELECINCO HD
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61103
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SEXTA HD
-http://iptv.dxdtv.xyz:8080/aumaletv-50cnxa/gY8qfyMZUq/61045
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69302.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="LA SIETE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SIETE HD
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
@@ -407,14 +407,8 @@ https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Algeciras Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Algeciras Television
 http://bandookk.xyz:8000/Geniptv/persian_share/32785
 
-#EXTINF:-1 tvg-id="" tvg-name="Popular TV Cantabria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Popular TV Cantabria
-http://bandookk.xyz:8000/Geniptv/persian_share/32786
-
 #EXTINF:-1 tvg-id="" tvg-name="Canal San Roque" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal San Roque
 http://bandookk.xyz:8000/Geniptv/persian_share/32787
-
-#EXTINF:-1 tvg-id="" tvg-name="Costa del Sol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Costa del Sol TV
-http://bandookk.xyz:8000/Geniptv/persian_share/32788
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
@@ -484,6 +478,8 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4319
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4320
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA DE CAMPEONES HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4321
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: Movistar Liga de Campeones HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126196
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES FHD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4322
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES 1 (Solo Eventos)
@@ -636,8 +632,6 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126193
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126194
 #EXTINF:0 tvg-id="MezzoLiveHD.fr" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MEZZO LIVE HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126195
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: Movistar Liga de Campeones HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126196
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: FOX LIFE HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126197
 #EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: FOX HD
