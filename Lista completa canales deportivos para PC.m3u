@@ -549,6 +549,8 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/132056
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140378
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: DAZN Formula 1 GP
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/151641
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DEPORTES: ESPAÑA⚽" tvg-id="DAZN F1", DAZN F1
+http://desastre3.deficoin.life/play/formula1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Caza Y Pesca" tvg-logo="" group-title="DEPORTES: ESPAÑA⚽",Caza Y Pesca
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
 
