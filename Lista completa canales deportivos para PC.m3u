@@ -1528,3 +1528,6 @@ http://127.0.0.1:6878/content/335b938c77b8755c87c9b6d2c520b2391e608ba5/0.3268316
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/creed_iii-358416025-large.jpg" group-title="Peliculas" tvg-id="Creed-III 2023", Creed-III 2023
 http://127.0.0.1:6878/content/f2e3eb9095234feee7ee3b1885c38bc227488c61/0.022646829107
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/puss_in_boots_the_last_wish-897078202-large.jpg" group-title="Peliculas" tvg-id="El Gato con botas - El ultimo deseo", El Gato con botas - El ultimo deseo
+http://127.0.0.1:6878/content/71c61b42ea63dc90a0c01f212ceb787aef05afcc/0.921280972744
