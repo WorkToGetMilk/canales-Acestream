@@ -1511,14 +1511,20 @@ http://127.0.0.1:6878/content/3975b0d3a36fd6ce553bc4e5d8199eb7045dcdfc/0.3261848
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvK1PWWB/Caratula-BSO-Black-Panther-Wakanda-Forever-Ludwig-Goransson.jpg" group-title="Peliculas" tvg-id="Black Panther Wakanda Forever 2022", Black Panther Wakanda Forever 2022
 http://127.0.0.1:6878/content/bd5dd4f73e118b7a3df83f05b678d3a6e6f5ba10/0.418588343495
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPSDZ4qT/003-m.jpg" tvg-id="Luca 2021", Luca 2021
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPSDZ4qT/003-m.jpg" group-title="Peliculas" tvg-id="Luca 2021", Luca 2021
 http://127.0.0.1:6878/content/169597547dbf2442f523421e43c80ea6dbe642f5/0.763430540335
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/The_Super_Mario_Bros_Movie_logo.png" tvg-id="Super Mario Bros 2023", Super Mario Bros 2023
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/The_Super_Mario_Bros_Movie_logo.png" group-title="Peliculas" tvg-id="Super Mario Bros 2023", Super Mario Bros 2023
 magnet:?xt=urn:btih:DC31D21559B1EA16989830884E6268FD5CE961AA&dn=Super%20Mario%20Bros%20%282023%29.mp4&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2ftracker.btorrent.xyz&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/A_Shazam_La_furia_de_los_dioses-122693502-large.jpg" tvg-id="¡Shazam! La furia de los Dioses 2023", ¡Shazam! La furia de los Dioses 2023
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/A_Shazam_La_furia_de_los_dioses-122693502-large.jpg" group-title="Peliculas" tvg-id="¡Shazam! La furia de los Dioses 2023", ¡Shazam! La furia de los Dioses 2023
 magnet:?xt=urn:btih:7E9CEBD275DC077A15B98017E4B0963B5D93FBC7&dn=Shazam%20La%20furia%20de%20los%20Dioses%20%282023%29.mp4&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2ftracker.btorrent.xyz
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Tetris-208019433-large.jpg" tvg-id="Tetris 2023", Tetris 2023
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Tetris-208019433-large.jpg" group-title="Peliculas" tvg-id="Tetris 2023", Tetris 2023
 http://127.0.0.1:6878/content/a9b1dd1b527583efb4eca6b8ab1022c2dcb2bff0/0.262913224065
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/momias-757383438-large.jpg" group-title="Peliculas" tvg-id="Momias 2023", Momias 2023
+http://127.0.0.1:6878/content/335b938c77b8755c87c9b6d2c520b2391e608ba5/0.326831681272
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/creed_iii-358416025-large.jpg" group-title="Peliculas" tvg-id="Creed-III 2023", Creed-III 2023
+http://127.0.0.1:6878/content/f2e3eb9095234feee7ee3b1885c38bc227488c61/0.022646829107
