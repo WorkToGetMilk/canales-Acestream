@@ -218,6 +218,9 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2 - 1080", Eurosport 2 - 1080
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmTGpfkp/DTV.png" group-title="Varios" tvg-id="DirectSports Plus", DirectSports Plus
+acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="Ellas #V", Ellas #V
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
