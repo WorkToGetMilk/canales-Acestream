@@ -225,6 +225,9 @@ acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="Ellas #V", Ellas #V
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png" group-title="TDT" tvg-id="TV3 CAT", TV3 CAT
+acestream://8494a9c2e755292fefe4eea78acd8dc29ed1d3ab
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Telecinco-hd.png" group-title="TDT" tvg-id="Telecinco 1080", Telecinco 1080
 acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 
@@ -269,6 +272,19 @@ acestream://aa9e353457d273108ec57dc1a449d66defb66b6a
 
 #EXTINF:-1 tvg-logo="https://fandubdb.fandom.com/wiki/TvG2?file=TvG2_Logo.png" group-title="TDT" tvg-id="TVG2 Deportes", TVG2 Deportes
 acestream://d6d64a0a2f3f83f94b0ad176af764a0bd9430eee
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logotipo_de_Telesur_%282011-2014%29.png" group-title="TDT" tvg-id="TeleSur", TeleSur
+acestream://d80713de995db0c853e7e835f1278420d32a8b93
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TDT" tvg-id="Canal de las Estrellas", Canal de las Estrellas
+acestream://f06a25f371ab0a70fabdd5d28690716996898814
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="TDT" tvg-id="Canal 26", Canal 26
+acestream://955c7754b0f2f5d52725b910379d60e45152e6e4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal_M%C3%A1laga_RTV.jpg" group-title="TDT" tvg-id="Canal Malaga", Canal Malaga
+acestream://6531c754d04ef1b6694f23daf0b8b7feb1387b19
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="Sport Tv" tvg-id="Sport Tv 1 - 1080", Sport Tv 1 - 1080
 acestream://c95422bc904378be0b035eba721d5e6a004f7d79
