@@ -258,6 +258,10 @@ acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483729360414810113/IG-lTzNZ_400x400.png" group-title="TDT" tvg-id="#0 - 1080", #0 - 1080
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="TDT" tvg-id="Euronews ES", Euronews ES
+acestream://76ee611c0ed9ce07f0820b25809d5290b2f7e728
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="Sport Tv" tvg-id="Sport Tv 1 - 1080", Sport Tv 1 - 1080
 acestream://c95422bc904378be0b035eba721d5e6a004f7d79
 
