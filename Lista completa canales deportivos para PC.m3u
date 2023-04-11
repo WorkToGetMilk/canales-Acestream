@@ -261,6 +261,14 @@ acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="TDT" tvg-id="Euronews ES", Euronews ES
 acestream://76ee611c0ed9ce07f0820b25809d5290b2f7e728
 
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/TV5_Linares?file=TV5linares.jpg" group-title="TDT" tvg-id="TV5 Linares", TV5 Linares
+acestream://22d8edbf5db606c3da68315368f6a981223290b0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/TVG_1985.png" group-title="TDT" tvg-id="Tv Galicia", Tv Galicia
+acestream://aa9e353457d273108ec57dc1a449d66defb66b6a
+
+#EXTINF:-1 tvg-logo="https://fandubdb.fandom.com/wiki/TvG2?file=TvG2_Logo.png" group-title="TDT" tvg-id="TVG2 Deportes", TVG2 Deportes
+acestream://d6d64a0a2f3f83f94b0ad176af764a0bd9430eee
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="Sport Tv" tvg-id="Sport Tv 1 - 1080", Sport Tv 1 - 1080
 acestream://c95422bc904378be0b035eba721d5e6a004f7d79
