@@ -503,6 +503,8 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4317
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4318
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LA LIGA 8 (Solo Eventos)
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4319
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="DEPORTES: ESPAÑA⚽" tvg-id="M.Liga De Campeones HD", M.Liga De Campeones HD
+http://desastre3.deficoin.life/play/campeones/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4320
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA DE CAMPEONES HD
