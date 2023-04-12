@@ -8711,3 +8711,6 @@ http://127.0.0.1:6878/content/71c61b42ea63dc90a0c01f212ceb787aef05afcc/0.9212809
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="Peliculas" tvg-id="Jurassic World Dominion 2022", Jurassic World Dominion 2022
 http://127.0.0.1:6878/content/59fff71c60ed1d5f1e9d6260bfab9d4376c0face/0.451587843785
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/rob_zombie_s_the_munsters-271992145-large.jpg" group-title="Peliculas" tvg-id="La Familia Monster 2022", La Familia Monster 2022
+http://127.0.0.1:6878/content/b57406cc77d041bcf0630f51d67e50c1bfc37686/0.212619228469
