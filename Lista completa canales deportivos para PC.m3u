@@ -15,6 +15,9 @@ acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2 720", M.Liga De Campeones 2 720
 acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2 720 Multiaudio", M.Liga De Campeones 2 720 Multiaudio
+acestream://297b513e2999e829d8bc9bd963428ea3d43362db
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3 1080", M.Liga De Campeones 3 1080
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 
