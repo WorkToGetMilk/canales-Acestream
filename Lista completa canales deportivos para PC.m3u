@@ -8708,3 +8708,6 @@ http://127.0.0.1:6878/content/f2e3eb9095234feee7ee3b1885c38bc227488c61/0.0226468
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/puss_in_boots_the_last_wish-897078202-large.jpg" group-title="Peliculas" tvg-id="El Gato con botas - El ultimo deseo", El Gato con botas - El ultimo deseo
 http://127.0.0.1:6878/content/71c61b42ea63dc90a0c01f212ceb787aef05afcc/0.921280972744
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="Peliculas" tvg-id="Jurassic World Dominion 2022", Jurassic World Dominion 2022
+http://127.0.0.1:6878/content/59fff71c60ed1d5f1e9d6260bfab9d4376c0face/0.451587843785
