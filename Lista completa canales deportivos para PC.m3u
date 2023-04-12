@@ -8714,3 +8714,6 @@ http://127.0.0.1:6878/content/59fff71c60ed1d5f1e9d6260bfab9d4376c0face/0.4515878
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/rob_zombie_s_the_munsters-271992145-large.jpg" group-title="Peliculas" tvg-id="La Familia Monster 2022", La Familia Monster 2022
 http://127.0.0.1:6878/content/b57406cc77d041bcf0630f51d67e50c1bfc37686/0.212619228469
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/smile-843278209-large.jpg" group-title="Peliculas" tvg-id="Smile 2023", Smile 2022
+http://127.0.0.1:6878/content/a2a7be4eefab6eee16437903586921200880b1da/0.159188743659
