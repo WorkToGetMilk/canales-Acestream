@@ -255,9 +255,6 @@ acestream://eca5dfd22ce7fc352205749f78ac2c1dff5b5a94
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#Vamos - 1080", #Vamos - 1080
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#Vamos - 1080", #Vamos - 1080
-acestream://c705661b68ccb69db3eb0afe1183302b1f1745e0
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#Vamos - 720", #Vamos - 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
@@ -267,13 +264,13 @@ acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="TDT" tvg-id="Euronews ES", Euronews ES
 acestream://76ee611c0ed9ce07f0820b25809d5290b2f7e728
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/TV5_Linares?file=TV5linares.jpg" group-title="TDT" tvg-id="TV5 Linares", TV5 Linares
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90GY5qpp/tv5-Linares.png" group-title="TDT" tvg-id="TV5 Linares", TV5 Linares
 acestream://22d8edbf5db606c3da68315368f6a981223290b0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/TVG_1985.png" group-title="TDT" tvg-id="Tv Galicia", Tv Galicia
 acestream://aa9e353457d273108ec57dc1a449d66defb66b6a
 
-#EXTINF:-1 tvg-logo="https://fandubdb.fandom.com/wiki/TvG2?file=TvG2_Logo.png" group-title="TDT" tvg-id="TVG2 Deportes", TVG2 Deportes
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TVG2#/media/Archivo:TvG2.jpg" group-title="TDT" tvg-id="TVG2 Deportes", TVG2 Deportes
 acestream://d6d64a0a2f3f83f94b0ad176af764a0bd9430eee
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logotipo_de_Telesur_%282011-2014%29.png" group-title="TDT" tvg-id="TeleSur", TeleSur
